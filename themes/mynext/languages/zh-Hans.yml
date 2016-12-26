@@ -36,7 +36,7 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
+  powered: "Powered by %s"
   theme: 主题
 
 

@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Effie's Blog
 subtitle:
-description:
-author: John Doe
-language:
-timezone:
+description: 不要嫌弃哈</br>在努力成长的路上...
+author: Little头
+language: zh-Hans
+timezone: 
+avatar: /images/avatar.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -64,6 +65,12 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: mynext
+
+#comments
+duoshuo_shortname: littleh
+
+#baiduAnalytics
+baidu_analytics: f3562ffc0a242801ee0e05bcb9cb01ef
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
